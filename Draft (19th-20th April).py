@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 29 22:12:31 2016
 
-@author: LENOVO
+@author: vdave
 """
 
 from scipy import exp,arange,array
